@@ -1,4 +1,4 @@
-# Print a string!
+# Print a string
 print("I will now count my chickens:")
 
 # Print a string, then calculates 25 plus result of 30/6
